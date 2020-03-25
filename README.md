@@ -1,4 +1,4 @@
-# powershell
+# Mass Importing DHCP Reservations into Proteus Bluecat Address Manager (BAM)
 
 My company has always struggled with creating DHCP Reservations and assigning Static IP's in Bluecat Address Manager (BAM).
 
